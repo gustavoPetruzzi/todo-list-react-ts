@@ -1,0 +1,9 @@
+.item {
+  background-color: rgba(3, 25, 86, 1);
+  display: flex;
+}
+
+.item h1 {
+  color: white;
+  margin: 0;
+}
